@@ -1,0 +1,7 @@
+#include<studio.h>
+int main(){
+  int a=4;
+  lnt b=5;
+  ont c=a+b;
+  printf("%d,\n",&c);
+}
